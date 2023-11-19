@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#4A4F51</color>
+
+    <color name="random1">#F5793B</color>
+    <color name="random2">#F7F36F</color>
+    <color name="random3">#70E0BB</color>
+    <color name="random4">#846FF7</color>
+    <color name="random5">#F0504F</color>
+    <color name="random6">#D94169</color>
+
+</resources>
